@@ -1,7 +1,9 @@
 @extends('templates.base')
 
 @section('content')
-    <div>
-        <h1>Home Page</h1>
+<div class="container mx-auto mt-10 px-4">
+    <div class="bg-white p-6 rounded-lg shadow-md">
+        <h1 class="text-3xl font-bold mb-4">Home</h1>
     </div>
+</div>
 @endsection
